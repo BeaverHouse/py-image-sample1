@@ -1,1 +1,1 @@
-# Git Clone Sample Repo 1
+# Python Sample Repo 1
